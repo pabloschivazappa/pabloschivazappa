@@ -5,13 +5,20 @@ My name is Pablo Schivazappa, I am a Jr Full Stack developer from Rosario, Argen
 
 ### Technologies 💻
 
-- Frontend development using HTML, CSS, Javascript, React
-- Backend development using MongoDB, NodeJS, Express
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,firebase,mongodb,nodejs,express,git,vercel,python,flask,django)](https://skills.thijs.gg)
 
 ### Socials 📱
 
-- LinkedIn: https://github.com/pabloschivazappa
-- Instagram: https://www.instagram.com/pablo.schivazappa/
+<a href="https://www.linkedin.com/in/pablo-fernando-schivazappa-00503717b/"/>
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+
+<a href="https://www.instagram.com/pablo.schivazappa/"/>
+    <img height="50" src="https://user-images.githubusercontent.com/103260419/209375636-aeaddac3-8890-4e39-9f5a-6481e0292dc0.png"/>
+</a>
+
+
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloschivazappa&theme=midnight-purple)
 
