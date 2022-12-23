@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Pablo Schivazappa, I am a Jr Full Stack developer from Rosario, Argentina.
 
 
-## Technologies
+### Technologies
 
 - Frontend development using HTML, CSS, Javascript, React
 - Backend development using MongoDB, NodeJS, Express
