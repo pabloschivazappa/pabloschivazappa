@@ -8,6 +8,10 @@ My name is Pablo Schivazappa, I am a Jr Full Stack developer from Rosario, Argen
 - Frontend development using HTML, CSS, Javascript, React
 - Backend development using MongoDB, NodeJS, Express
 
+### Socials
+
+- LinkedIn: https://github.com/pabloschivazappa
+- Instagram: https://www.instagram.com/pablo.schivazappa/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloschivazappa&theme=midnight-purple)
 
