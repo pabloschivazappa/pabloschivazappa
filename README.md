@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-My name is Pablo Schivazappa, I am a developer from Rosario, Argentina.
+My name is Pablo Schivazappa, I am a Jr Full Stack developer from Rosario, Argentina.
+
+
+## Technologies
+
+- Frontend development using HTML, CSS, Javascript, React
+- Backend development using MongoDB, NodeJS, Express
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloschivazappa&theme=midnight-purple)
 
