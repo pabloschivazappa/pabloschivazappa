@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pablo Schivazappa, I am a Jr Full Stack developer from Rosario, Argentina.
+My name is Pablo Schivazappa, I am a Full Stack developer from Rosario, Argentina.
 
 
 ### Technologies 💻
