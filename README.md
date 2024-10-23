@@ -5,7 +5,7 @@ My name is Pablo Schivazappa, I am a Full Stack developer from Rosario, Argentin
 
 ### Technologies 💻
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,firebase,mongodb,nodejs,express,git,vercel,python,flask,django)](https://skills.thijs.gg)
+.
 
 ### Socials 📱
 
